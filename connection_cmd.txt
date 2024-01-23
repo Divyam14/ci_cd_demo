@@ -1,0 +1,1 @@
+ssh -i .\todo-app1-key.pem ubuntu@ec2-13-60-21-86.eu-north-1.compute.amazonaws.com
